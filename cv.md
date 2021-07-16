@@ -80,3 +80,25 @@ Front-end developer. Confident knowledge of HTML, CSS/SCSS, Core and Client-Side
 <u>Environment</u>: HTML, SCSS
 
 [See project](https://ekaterinashep.github.io/form/form/index.html)
+
+## Education
+
+<img src="https://media-exp3.licdn.com/dms/image/C560BAQFafJR7i-j8EA/company-logo_100_100/0/1557584831531?e=1634169600&v=beta&t=BOwUIKhbdGFN82xZh8NoYDU3oJCtchkNRNVpBfXDVrk" width="25">
+
+**Lomonosov Moscow State University, Moscow, Russia**, 2013-2017
+
+Faculty of Biology, Bachelor’s degree in Botany and Ecology of Higher Plants
+
+GPA 4.95 (5.0 is max), state-funded student, _Diploma summa cum laude_
+
+## Licenses & certifications
+
+**Codewars**
+
+<a href="https://www.codewars.com/users/EkaterinaShep"><img src="https://www.codewars.com/users/EkaterinaShep/badges/micro" width="165"></a>
+
+## Languages
+
+**Russian** (Native)
+
+**English** (Intermediate)
