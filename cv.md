@@ -27,3 +27,10 @@ Front-end developer. Confident knowledge of HTML, CSS/SCSS, Core and Client-Side
 **Operating Systems:** Windows, Linux
 
 **Knowledge:** Internet infrastructure, Web, how Browsers work, computer science fundamentals (data structures and algorithms), programming paradigms (OOP), KISS, DRY and YAGNI principles
+
+## Experience
+
+| Years        | Description                                                                                                                                                                                                                                               |
+| :----------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2021-present | **Front-end developer**<br>Freelance<br><u>Responsibilities</u>: Development of websites and web applications of different complexity<br><u>Environment</u>: HTML, CSS, SCSS, JavaScript, TypeScript, Git, Webpack, Figma                                 |
+| 2014-2020    | **Researcher**<br><u>Organization</u>: Lomonosov Moscow State University (MSU)<br><u>Responsibilities</u>: Morphological, anatomical, molecular and bioinformatics studies<br>[See scientific profile](https://istina.msu.ru/profile/EkaterinaShepeleva/) |
